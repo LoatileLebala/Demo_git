@@ -15,3 +15,4 @@ usethis::create_github_token()
 gitcreds::gitcreds_set()
 
 x <- 1
+y <- 2
