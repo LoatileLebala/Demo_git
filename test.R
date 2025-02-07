@@ -13,3 +13,5 @@ gert::git_config_global_set("user.email", email)
 usethis::use_git()
 usethis::create_github_token()
 gitcreds::gitcreds_set()
+
+x <- 1
